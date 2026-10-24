@@ -1,0 +1,6 @@
+{
+  "name": "Chatter",
+  "description": "Real-time online chatting and video calling with voice notes, media sharing, and video calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
